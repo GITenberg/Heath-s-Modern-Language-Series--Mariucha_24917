@@ -1,0 +1,39 @@
+_repo: Heath-s-Modern-Language-Series--Mariucha_24917
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pérez Galdós, Benito
+    aliases:
+    - Perez Galdos, Benito
+    - Galdós, Benito Pérez
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '3821'
+    url: http://www.gutenberg.org/2009/agents/3821
+    wikipedia: http://en.wikipedia.org/wiki/Benito_Pérez_Galdós
+  editor:
+    agent_name: Morley, S. Griswold (Sylvanus Griswold)
+    alias: Morley, Sylvanus Griswold
+    birthdate: 1878
+    deathdate: 1970
+    gutenberg_agent_id: '6468'
+    url: http://www.gutenberg.org/2009/agents/6468
+description: ''
+gutenberg_issued: '2008-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24917'
+language:
+- en
+- es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Comedies'
+title: 'Heath''s Modern Language Series: Mariucha'
+url: http://www.gutenberg.org/ebooks/24917
